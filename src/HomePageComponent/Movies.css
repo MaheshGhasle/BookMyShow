@@ -1,0 +1,35 @@
+.movies-container{
+    padding: 5rem 8rem 5rem 8rem;
+}
+
+.card{
+    margin-right: 10px;
+    border: none;
+}
+
+.card-img-top{
+    border-radius: 5px;
+}
+.recommended-movies{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hh-3 , .hh-6{
+    display: inline-block;
+}
+
+.hh-6{
+    padding-top: 10px;
+}
+
+.card-body{
+    text-align: left;
+    padding: 10px 0 10px 0;
+    text-decoration: none;
+}
+
+.movies-container a{
+    text-decoration: none;
+}
+

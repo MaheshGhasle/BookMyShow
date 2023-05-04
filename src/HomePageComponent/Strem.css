@@ -1,0 +1,16 @@
+.strem-container{
+    width: 100%;
+    /* padding-left: 8rem; */
+    /* padding-right: 8rem; */
+    /* margin-top: 1rem; */
+}
+
+.strem-content img{
+    /* background-image: url("../Images/stream-leadin-web-collection-202210241242.png"); */
+    width: 90%;
+    
+}
+
+.strem-content{
+    margin-left: 8rem;
+}
